@@ -1,12 +1,34 @@
-- 👋 Hi, I’m @joshuaonyango2
-- 👀 I’m interested in coding and developing of porojects...
-- 🌱 I’m currently learning baschelors in Applied Computing...
-- 💞️ I’m looking to collaborate on the upcoming project i am tring to develope...
-- 📫 How to reach me ,call or text 0758925541...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m Joshua Onyango Otieno – Backend Web Developer
 
-<!---
-joshuaonyango2/joshuaonyango2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  I’m a tech enthusiast who loves simplifying real-world problems through code.
+  As an ALXProv learner, I’m diving deep into backend web development to build impactful solutions. My passion lies in creating tech that makes a difference—whether it’s through telemedicine platforms, reporting tools like Piga Repoti, or student portals like the one I’m working on for KASMS.
+
+🚀 What Inspires Me
+I started software engineering to solve real-world challenges with technology. I believe in making complex problems look easy and accessible.
+My goal? To build systems that empower communities—like improving healthcare access through telemedicine or streamlining education with digital portals.
+
+💻 My Tech Stack
+  
+    Python
+    JavaScript
+    MySQL
+    PHP
+    Git
+
+🌟 Featured Projects
+Here are some ongoing projects I’m proud of:
+
+[Telemedicine Platform]A backend system to improve healthcare access, built with [Tech Stack, e.g., Python, MySQL].
+[Piga Repoti]A reporting tool to simplify issue tracking, developed using [Tech Stack, e.g., PHP, JavaScript,java].
+🔗 [Link to Repo] | ⭐ Stars: [Number]
+
+[KASMS Student Portal]A portal to streamline education for KASMS students, crafted with [Tech Stack, e.g., PHP, MySQL].
+🔗 [Link to Repo] | ⭐ Stars: [Number]
+
+
+📈 GitHub Stats
+
+
+📫 Let’s Connect!
+
+  I’m always excited to collaborate on projects that solve real-world problems—let’s build something amazing together!
